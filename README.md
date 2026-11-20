@@ -56,8 +56,8 @@ Apri il file su GitHub e usa il pulsante **Copy raw file** (l'icona di copia in 
 
 | File | Su GitHub (pulsante copia) | Contenuto grezzo |
 |---|---|---|
-| `Code.gs` | <a href="https://github.com/baskin-software/votazione-ctl-baskin/blob/main/Code.gs" target="_blank" rel="noopener">apri in una nuova scheda</a> | <a href="https://raw.githubusercontent.com/baskin-software/votazione-ctl-baskin/main/Code.gs" target="_blank" rel="noopener">raw</a> |
-| `Index.html` | <a href="https://github.com/baskin-software/votazione-ctl-baskin/blob/main/Index.html" target="_blank" rel="noopener">apri in una nuova scheda</a> | <a href="https://raw.githubusercontent.com/baskin-software/votazione-ctl-baskin/main/Index.html" target="_blank" rel="noopener">raw</a> |
+| `Code.gs` | <a href="https://github.com/baskinsoftware/votazione-ctl-baskin/blob/main/Code.gs" target="_blank" rel="noopener">apri in una nuova scheda</a> | <a href="https://raw.githubusercontent.com/baskinsoftware/votazione-ctl-baskin/main/Code.gs" target="_blank" rel="noopener">raw</a> |
+| `Index.html` | <a href="https://github.com/baskinsoftware/votazione-ctl-baskin/blob/main/Index.html" target="_blank" rel="noopener">apri in una nuova scheda</a> | <a href="https://raw.githubusercontent.com/baskinsoftware/votazione-ctl-baskin/main/Index.html" target="_blank" rel="noopener">raw</a> |
 
 Nell'editor Apps Script incolla `Code.gs` nel file omonimo e `Index.html` in un file HTML chiamato esattamente `Index`.
 
@@ -84,4 +84,4 @@ Rilasciato con **licenza MIT**: puoi usarlo, modificarlo, ridistribuirlo e riuti
 
 Se lo usi o lo adatti, cita il progetto originale:
 
-> Votazione CTL Baskin — Daniele Lolli (UncleDan), https://github.com/baskin-software/votazione-ctl-baskin
+> Votazione CTL Baskin — Daniele Lolli (UncleDan), https://github.com/baskinsoftware/votazione-ctl-baskin
