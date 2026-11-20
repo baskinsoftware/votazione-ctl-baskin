@@ -1,4 +1,4 @@
-# Votazione CTL Baskin — istruzioni (v43)
+# Votazione CTL Baskin — istruzioni (26.0)
 
 Voto online anonimo, utilizzabile da telefono senza account Google:
 

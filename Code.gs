@@ -1,6 +1,6 @@
 /**
  * Votazione CTL Baskin — voto online anonimo, un voto per società
- * v43 — Google Apps Script legato a un Foglio Google
+ * 26.0 — Google Apps Script legato a un Foglio Google
  *
  * Codice sorgente: https://github.com/baskinsoftware/votazione-ctl-baskin
  * Copyright (c) 2026 Daniele Lolli (UncleDan) — Licenza MIT (vedi LICENSE)
@@ -35,7 +35,7 @@ const SH = {
   MSG: 'Messaggi', CONF: 'Conferme'
 };
 const REPO_URL = 'https://github.com/baskinsoftware/votazione-ctl-baskin';
-const VERSIONE = 'v43';
+const VERSIONE = '26.0';
 const LOGO_SVG = 'https://eisi.it/wp-content/uploads/2026/09/logo-eisi-epp-cip.svg';
 const LOGO_PNG = 'https://eisi.it/wp-content/uploads/2026/09/logo-eisi-epp-cip.png';
 const PROPRIETA_LOGO = 'Logo © Ente Italiano Sport Inclusivi (EISI), tutti i diritti riservati';

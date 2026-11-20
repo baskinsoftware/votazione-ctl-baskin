@@ -1,9 +1,15 @@
 # Changelog
 
+## 26.0
+- **Nuova numerazione delle versioni, in stile Firefox**: dopo la v43 si passa a **26.0**. Le versioni principali salgono di un numero intero (27.0, 28.0…), le correzioni minori aggiungono un terzo numero (26.0.1). Il numero compare come prima nel piede dei fogli, sulla pagina di voto, nella scheda statica e nei messaggi ai votanti.
+- **L'organizzazione ha cambiato nome**: da `baskin-software` a **`baskinsoftware`**, senza trattino. Il repository ora è `baskinsoftware/votazione-ctl-baskin`: aggiornato l'indirizzo in `REPO_URL` — quindi nel piede di Verbale, Riepilogo urna e Risultati ballottaggi, sulla pagina di voto e in ogni messaggio ai votanti — e nel piede della scheda statica, nel README, nelle istruzioni, in LICENSE, in NOTICE e nel documento della procedura.
+- La pagina di voto cambia di nuovo indirizzo: `https://baskinsoftware.github.io/votazione-ctl-baskin/`. Vanno verificate le Pages (Settings → Pages → Source: GitHub Actions) e la variabile `PONTE`; poi va aggiornato *Config → Indirizzo interfaccia HTML*, rilanciato *Interfaccia di voto → Usa la pagina web (HTML)* e **rimandati i link ai votanti**, perché quelli vecchi puntano all'indirizzo precedente. GitHub reindirizza il vecchio indirizzo del repository, non quello delle Pages.
+- Nessun'altra modifica: nessun cambiamento al funzionamento, ai fogli o ai calcoli.
+
 ## v43
-- **Il repository si è spostato**: da `UncleDan/votazione-ctl-baskin` a **`baskinsoftware/votazione-ctl-baskin`**, l'organizzazione che raccoglie il software per il Baskin. Cambia solo dove il codice è ospitato: licenza, autore e funzionamento restano quelli di prima.
+- **Il repository si è spostato**: da `UncleDan/votazione-ctl-baskin` a **`baskin-software/votazione-ctl-baskin`**, l'organizzazione che raccoglie il software per il Baskin. Cambia solo dove il codice è ospitato: licenza, autore e funzionamento restano quelli di prima.
 - Aggiornato l'indirizzo in `REPO_URL` — quindi nel piede di Verbale, Riepilogo urna e Risultati ballottaggi, sulla pagina di voto e in ogni messaggio ai votanti — e nel piede della scheda statica, nel README, nelle istruzioni, in LICENSE e in NOTICE.
-- La pagina di voto cambia indirizzo: `https://baskinsoftware.github.io/votazione-ctl-baskin/`. Nel nuovo repository vanno riaccese le Pages (Settings → Pages → Source: GitHub Actions) e ricreata la variabile `PONTE`, che non segue il trasferimento; poi va aggiornato *Config → Indirizzo interfaccia HTML*, rilanciato *Interfaccia di voto → Usa la pagina web (HTML)* e **rimandati i link ai votanti**, perché quelli vecchi puntano all'indirizzo precedente. GitHub reindirizza il vecchio indirizzo del repository, non quello delle Pages.
+- La pagina di voto cambia indirizzo: `https://baskin-software.github.io/votazione-ctl-baskin/`. Nel nuovo repository vanno riaccese le Pages (Settings → Pages → Source: GitHub Actions) e ricreata la variabile `PONTE`, che non segue il trasferimento; poi va aggiornato *Config → Indirizzo interfaccia HTML*, rilanciato *Interfaccia di voto → Usa la pagina web (HTML)* e **rimandati i link ai votanti**, perché quelli vecchi puntano all'indirizzo precedente. GitHub reindirizza il vecchio indirizzo del repository, non quello delle Pages.
 - Nessun'altra modifica: nessun cambiamento al funzionamento, ai fogli o ai calcoli.
 
 ## v42
