@@ -15,7 +15,7 @@ let errori = 0;
 const verifica = (cond, testo) => { console.log((cond ? '  ✔ ' : '  ✘ ') + testo); if (!cond) errori++; };
 const foglio = n => M.SS.getSheetByName(n);
 const codici = (sh, col) => foglio(sh).d.slice(1).filter(r => r[0] && r[col]).map(r => r[col]);
-const PAGES = 'https://baskin-software.github.io/votazione-ctl-baskin';
+const PAGES = 'https://baskinsoftware.github.io/votazione-ctl-baskin';
 /** Chiama il ponte come farebbe la pagina statica e restituisce la risposta già letta. */
 const ponte = payload => JSON.parse(doPost({ postData: { contents: JSON.stringify(payload) } }).getContent());
 

@@ -11,7 +11,7 @@ Voto online anonimo, utilizzabile da telefono senza account Google:
 
 Il **Formatore di riferimento** non si vota: si indica in *Config*.
 
-Codice sorgente aperto: <https://github.com/baskin-software/votazione-ctl-baskin> (licenza MIT). Per trasparenza il link diretto e cliccabile, con il numero di versione, compare in fondo alla pagina di voto e in tutti i fogli di resoconto.
+Codice sorgente aperto: <https://github.com/baskinsoftware/votazione-ctl-baskin> (licenza MIT). Per trasparenza il link diretto e cliccabile, con il numero di versione, compare in fondo alla pagina di voto e in tutti i fogli di resoconto.
 
 ## La checklist, dentro al foglio
 
